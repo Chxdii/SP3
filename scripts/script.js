@@ -15,7 +15,7 @@ new Vue({
             artist: "x",
             cover: "./img/SB.png",
             source: "./mp3/tw.mp3",
-            url: "3zixty.com",
+            url: "",
             favorited: false
           },
           {
@@ -23,7 +23,7 @@ new Vue({
             artist: "x",
             cover: "./img/fj.png",
             source: "./mp3/starby.mp3",
-            url: "3zixty.com",
+            url: "",
             favorited: false
           },
           {
@@ -31,7 +31,7 @@ new Vue({
             artist: "x",
             cover: "./img/SB.png",
             source: "./mp3/sready.mp3",
-            url: "3zixty.com",
+            url: "",
             favorited: false
           },
           {
@@ -39,7 +39,7 @@ new Vue({
             artist: "x",
             cover: "./img/fj.png",
             source: "./mp3/noname.mp3",
-            url: "3zixty.com",
+            url: "",
             favorited: false
           },
           {
@@ -47,7 +47,7 @@ new Vue({
             artist: "x",
             cover: "./img/SB.png",
             source: "./mp3/hmm.mp3",
-            url: "3zixty.com",
+            url: "",
             favorited: false
           },
           {
@@ -63,7 +63,7 @@ new Vue({
             artist: "x",
             cover: "./img/SB.png",
             source: "./mp3/gdd.mp3",
-            url: "3zixty.com",
+            url: "",
             favorited: false
           },
           {
@@ -71,7 +71,7 @@ new Vue({
             artist: "x",
             cover: "./img/fj.png",
             source: "./mp3/flashin.mp3",
-            url: "3zixty.com",
+            url: "",
             favorited: false
           },
           {
@@ -79,15 +79,15 @@ new Vue({
             artist: "x",
             cover: "./img/SB.png",
             source: "./mp3/Fever.mp3",
-            url: "3zixty.com",
+            url: "",
             favorited: false
           },
           {
             name: "x",
             artist: "x",
             cover: "./img/fj.png",
-            source: "./mp3/eman.mp3",
-            url: "3zixty.com",
+            source: "./mp3/Eman.mp3",
+            url: "",
             favorited: false
           },
           {
@@ -95,7 +95,7 @@ new Vue({
             artist: "x",
             cover: "./img/SB.png",
             source: "./mp3/Boogie.mp3",
-            url: "3zixty.com",
+            url: "",
             favorited: false
           },
           {
@@ -103,7 +103,7 @@ new Vue({
             artist: "x",
             cover: "./img/fj.png",
             source: "./mp3/Afroblue.mp3",
-            url: "3zixty.com",
+            url: "",
             favorited: false
           },
           
