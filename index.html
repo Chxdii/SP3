@@ -3,6 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <link
       href="https://fonts.googleapis.com/css?family=Bitter:400,700&display=swap&subset=latin-ext"
       rel="stylesheet"
@@ -29,9 +30,11 @@
                 <use xlink:href="#icon-heart-o"></use>
               </svg>
             </div>
-            <a :href="currentTrack.url" target="3zixty.com" class="player-controls__item">
+            <a href="https://example.com" target="_blank" class="player-controls__item">
               <svg class="icon">
                 <use xlink:href="#icon-link"></use>
+              </svg>
+            </a>            
               </svg>
             </a>
             <div class="player-controls__item" @click="prevTrack">
@@ -67,9 +70,7 @@
         </div>
         <div v-cloak></div>
       </div>
-      <a href="" target="_blank" class="github-btn">
-        SoloPlayer 
-      </a>
+    
     </div>
 
     <svg xmlns="http://www.w3.org/2000/svg" hidden xmlns:xlink="http://www.w3.org/1999/xlink">
